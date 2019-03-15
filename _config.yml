@@ -27,7 +27,7 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
   # facebook: your_username
@@ -35,17 +35,19 @@ projects:
   # medium: @your_username
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: enakero
   # youtube: your_username
   # vk: your_username
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: PHP
+    web_url: https://github.com/topics/php
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
-  - name: Web design
+  - name: DevOps
+    web_url: https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91
+    image_url: https://cdn-images-1.medium.com/max/2560/1*EBXc9eJ1YRFLtkNI_djaAw.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Linux
+    web_url: https://github.com/topics/linux
+    image_url: https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg
