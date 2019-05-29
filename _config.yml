@@ -44,6 +44,10 @@ topics:
     web_url: https://github.com/topics/php
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/php/php.png
 
+  - name: JavaScript
+    web_url: https://github.com/topics/javascript
+    image_url: https://nodejs.org/static/images/logos/nodejs-new-pantone-black.png
+
   - name: DevOps
     web_url: https://gist.github.com/jpswade/4135841363e72ece8086146bd7bb5d91
     image_url: https://cdn-images-1.medium.com/max/2560/1*EBXc9eJ1YRFLtkNI_djaAw.png
